@@ -1,6 +1,6 @@
 
 # Curfew Checker Lab
-<img src="https://s3.amazonaws.com/after-school-assets/curfew.jpg" width="300px" align="right" hspace="10"> Imagine you're at Hogwarts and there's a curfew to get back to the common room by 11. Who needs a watch when you could just write a program to check if it's time to get back! Write your code in `curfew_checker.rb`.
+<img src="https://s3.amazonaws.com/after-school-assets/curfew.jpg" width="300px" align="right" hspace="10"> Imagine you're at Hogwarts and there's a curfew to get back to the common room by 11. Who needs a watch when you could just write a program to check if it's time to get back! Write your code in `lib/curfew_checker.rb`.
 
 You're going to be using **if statements** within methods that take in `time` as a parameter. You'll build out a few different checkers of increasing levels of complexity to test your Ruby skills. Then, you'll run `rspec` test that's already been built out to see if your methods work. 
 
